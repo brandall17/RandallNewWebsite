@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+# Ben Randall Basketball
+<html>
+<head>
+  <title>Bens Basketball</title>
+<link href="StyleSheet.css" rel="stylesheet"> 
+</head>
+<body>
+<p></p>
+ <nav>
+  <a href="Giving Tree Main.html">The Giving Tree</a> |
+  <a href="Giving Tree About.html">About Us</a> |
+  <a href="Giving Tree Deliver.html">Sign Up Here</a> |
+</nav>
+<p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"></span></span><strong><span style="font-size:36px;"><span style="font-family:courier new,courier,monospace;"></span></span></strong></p>
+<p style="text-align: center;"></p>
+<blockquote>
+<p style="text-align: center;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#B22222;">Welcome to the Giving Tree for <strong>Saint Pius X Catholic School</strong>!</span><br />
+  <body style="background-color:powderblue;"> </p>
+  <br />
+<em>Time to learn a little bit about my basketball career</em> . . . .<br />
+<br />
+<br />
+<img src=https://user-images.githubusercontent.com/116672082/198373781-c76cfc86-270d-4352-978e-8e1c212d61af.jpeg alt="Christmas Gifts" width="400" height="300"<br />
+  <h5> Image: Christmas Gifts and Branches of a Decorated Tree by Marco Verch at [https://www.flickr.com/photos/30478819@N08/50656940087], CC license. </h5>
+<br />
+<br />
+Starting in the seventh grade, I tried out for basketball. I didn't make it. It gave me the motivation to put in the time and effort to consistently practice basketball every day. Come eigth grade, I made the team and had a great season. I then had a successful career in highschool that you can see <a href= https://youtu.be/nj3RXna-2Ng">here.</a> I was very close to playing college basketball, I then decided to pursue academics and come to UW Madison! I now play on the club basketball team here at Wisconsin and run Badger Barstool</span></span><br />
+<br />
+<br />
+<!--[endif]--><o:p></o:p></p>
+</blockquote>
+</body>
+<br />
+<br />
+<!--[endif]--><o:p></o:p></p>
+</blockquote>
+</body>
+</html>
