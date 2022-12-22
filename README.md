@@ -21,8 +21,8 @@
 <em>Time to learn a little bit about me</em> . . . .<br />
 <br />
 <br />
-<img src=https://user-images.githubusercontent.com/116672082/198373781-c76cfc86-270d-4352-978e-8e1c212d61af.jpeg alt="Christmas Gifts" width="400" height="300"<br />
-  <h5> Image: Christmas Gifts and Branches of a Decorated Tree by Marco Verch at [https://www.flickr.com/photos/30478819@N08/50656940087], CC license. </h5>
+<img src= https://pbs.twimg.com/media/EuxFEepXUAMDnJ_?format=jpg&name=small alt="Ben Randall Headshot" width="200" height="250"<br />
+  <h5> Image: Ben Randall, CC license. </h5>
 <br />
 <br />If you're interested, check out my basketball highlights <a href="https://github.com/brandall17/Randall-Website/blob/basketball/README.md"> here </a>if you haven&#39;t already, consider checking out my <a href= "https://github.com/brandall17/Randall-Website/blob/barstool/README.md"> barstool page</a> as well!!</span></span><br />
 <br />
